@@ -1,35 +1,60 @@
-````md
-# Machine Learning Projects
+<div align="center">
 
-A simple repository for Machine Learning projects using Python.
+# 🤖 Machine Learning Repository
 
-## 🚀 Topics Covered
-- Data Preprocessing
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-orange?style=for-the-badge">
 
-## 🛠️ Tools & Libraries
+### 🚀 Learning • Building • Experimenting
+
+</div>
+
+---
+
+## 📌 About
+This repository contains Machine Learning projects, practice notebooks, and model implementations using Python and Scikit-learn.
+
+---
+
+## 🛠️ Tech Stack
 - Python
-- Pandas
 - NumPy
+- Pandas
 - Matplotlib
 - Scikit-learn
 
-## 📂 Project Structure
+---
+
+## 📂 Repository Structure
 
 ```bash
 Machine-Learning/
 │
 ├── datasets/
 ├── notebooks/
+├── projects/
 ├── models/
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
-## ▶️ Run Project
+---
+
+## 📊 Algorithms Included
+✔️ Linear Regression  
+✔️ Logistic Regression  
+✔️ KNN  
+✔️ Decision Tree  
+✔️ Random Forest  
+✔️ SVM  
+
+---
+
+## ▶️ Getting Started
+
+```bash
+git clone https://github.com/your-username/Machine-Learning.git
+```
 
 ```bash
 pip install -r requirements.txt
@@ -39,14 +64,10 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 📌 Algorithms
-- Linear Regression
-- Logistic Regression
-- KNN
-- SVM
-- Decision Tree
-- Random Forest
+---
 
-## 👨‍💻 Author
-Aditya Kumar Kushwaha
-````
+<div align="center">
+
+### ⭐ If you like this repository, give it a star ⭐
+
+</div>
